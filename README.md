@@ -1,4 +1,6 @@
-## bytedance homework:
+## bytedance homework 性能优化:
+
+### 基于上一个作业进行优化：https://github.com/wufei-png/mobile_css
 
 ### 主要优化手段：
 
@@ -20,4 +22,4 @@
 - npm install
 - npm run dev
 
-### 主要指标和相对原网页的修改描述：见 性能对比.pdf
+### 主要指标和相对原网页的修改描述：见 vite-project/性能对比.pdf
